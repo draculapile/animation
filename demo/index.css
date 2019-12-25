@@ -1,0 +1,23 @@
+.animate {
+  position: absolute;
+  left: 100px;
+  width: 102px;
+  height: 80px;
+  background-repeat: no-repeat;
+}
+
+#animate1 {
+  top: 50px;
+}
+
+#animate2 {
+  top: 200px;
+}
+
+#animate3 {
+  top: 350px;
+}
+
+#animate4 {
+  top: 500px;
+}

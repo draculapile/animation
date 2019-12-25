@@ -1,6 +1,14 @@
+'use strict';
+
 /**
  * 帧动画类
  */
-class Animation {
+export default class Animation {
+  constructor () {
 
+  }
+
+  test() {
+    console.log('animate')
+  }
 }
